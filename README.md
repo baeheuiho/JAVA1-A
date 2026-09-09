@@ -1,5 +1,4 @@
-# JAVA-A반 
-JAVA 수업시간 공유
-https://github.com/baeheuiho/JAVA1-A.git
-https://docs.google.com/spreadsheets/d/1MTz69tOD-bc0EgPGXkwiY1Z4jxcArzAbVq-EsI2Djo0/edit?gid=0#gid=0
+# JAVA1-A반 
+2026학년도 JAVA 수업 시간 Data 공유
 
+https://docs.google.com/spreadsheets/d/1AzmCsfTWWLR2KQlr2D98rwFo0-WgnB7-nnEvQQ9b9UY/edit?gid=0#gid=0
